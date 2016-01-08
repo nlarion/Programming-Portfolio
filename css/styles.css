@@ -9,6 +9,13 @@ html, body {
   height: 100%;
 }
 
+h2 {
+  text-align: center;
+  background-color: #AB67D5;
+  color: white;
+  font-weight: bold;
+}
+
 .fullPageContainer {
   background-image: url('../images/background.png');
   background-repeat: no-repeat;
@@ -84,12 +91,14 @@ html, body {
 }
 
 .carousel-caption {
-  background-color: #ccc;
+  background-color: #94D567;
   padding: 0px;
-  margin-bottom: 30px;
+  margin-bottom: 50px;
   border-radius: 5px;
-  font-size: 20px;
+  font-size: 25px;
   font-weight: bold;
+  text-decoration: underline;
+  border: solid 5px black;
 
 
 }
@@ -97,4 +106,16 @@ html, body {
 .carousel-caption a:hover,
 .carousel-caption a:visited {
   color: black;
+}
+
+.item h4, h3 {
+  margin: 20px;
+
+}
+
+/*.carousel-control.right {
+  background-image: none;
+}*/
+.carousel-control{
+  width: 5%;
 }
