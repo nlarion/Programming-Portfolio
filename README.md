@@ -17,9 +17,9 @@ You should not need a HTML server to run this project, and should be able to run
 I recomend chrome or chromium to run the site.
 
 ## Support and contact details
-*http://www.neillarion.com
-*neil.larion@gmail.com
-*@nlarion
+* http://www.neillarion.com
+* neil.larion@gmail.com
+* [https://twitter.com/nlarion][@nlarion]
 
 ## Technologies Used
 CSS
@@ -28,6 +28,5 @@ JavaScript
 Bootstrap
 
 ### License
-
 
 This work is licensed under a [http://creativecommons.org/licenses/by/4.0/][Creative Commons Attribution 4.0 International License.]
