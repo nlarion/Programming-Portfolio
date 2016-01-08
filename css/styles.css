@@ -82,3 +82,19 @@ html, body {
 .carousel-indicators {
   bottom: 2px;
 }
+
+.carousel-caption {
+  background-color: #ccc;
+  padding: 0px;
+  margin-bottom: 30px;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: bold;
+
+
+}
+
+.carousel-caption a:hover,
+.carousel-caption a:visited {
+  color: black;
+}
