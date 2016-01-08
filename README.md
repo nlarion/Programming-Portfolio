@@ -19,7 +19,7 @@ I recomend chrome or chromium to run the site.
 ## Support and contact details
 * http://www.neillarion.com
 * neil.larion@gmail.com
-* [https://twitter.com/nlarion][@nlarion]
+* [@nlarion](https://twitter.com/nlarion)
 
 ## Technologies Used
 CSS
@@ -29,4 +29,4 @@ Bootstrap
 
 ### License
 
-This work is licensed under a [http://creativecommons.org/licenses/by/4.0/][Creative Commons Attribution 4.0 International License.]
+This work is licensed under a [Creative Commons Attribution 4.0 International License.](http://creativecommons.org/licenses/by/4.0/)
