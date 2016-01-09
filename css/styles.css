@@ -1,14 +1,13 @@
-/* doesnt work for some reason.
-@media only screen and (max-width: 768px){
-  .logoContainer {
-    font-size: 120px;
-  }
-}*/
-
 html, body {
+  background-image: url('../images/background.png');
+  background-repeat:  no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
   height: 100%;
-    background-image: url('../images/tiled.png');
-  background-repeat: repeat;
 }
 
 h2 {
@@ -18,25 +17,9 @@ h2 {
   font-weight: bold;
 }
 
-.fullPageContainer {
-  background-image: url('../images/background.png');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
-
-  min-height: 100%;
-  height: 100%;
-}
-
 .row img {
   width: 100%;
   z-index: -1;
-
-
 }
 
 .logoContainer {
