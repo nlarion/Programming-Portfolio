@@ -113,9 +113,31 @@ h2 {
 
 }
 
-/*.carousel-control.right {
+/* turns off carousel background.
+.carousel-control.right {
   background-image: none;
 }*/
-.carousel-control{
+
+.carousel-control {
   width: 5%;
+}
+
+.backgroundGreen {
+  background-color: #94D567;
+}
+
+.modal-body img {
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+
+  box-shadow: 3px 3px 3px 3px #333;
+  border-radius: 10px;
+}
+
+.redModalHeader h2 {
+  text-align: center;
+  background-color: #D56767;
+  color: white;
+  font-weight: bold;
 }
